@@ -2,7 +2,7 @@
 galaxy_info:
   role_name: conf_base
   author: alancarlos11
-  description: Configuracao Base de usuários, pacotes e hosts
+  description: Configuracao Base de usuários, pacotes e hosts Alan
   company: 4Linux
   license: GPLv3
   min_ansible_version: "2.12"
